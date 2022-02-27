@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "PassUsingViewBag";
+}
+<h1>@ViewBag.Title</h1>
+<div>
+    <p class="bold">Rand value first: @ViewBag.a</p>
+    <p class="bold">Rand value second: @ViewBag.b</p>
+    <p class="bold">Add:</p>
+    <p>"@ViewBag.a + @ViewBag.b = @(ViewBag.a + ViewBag.b)"</p>
+    <p class="bold">Sub:</p>
+    <p>"@ViewBag.a - @ViewBag.b = @(ViewBag.a - ViewBag.b)"</p>
+    <p class="bold">Mult:</p>
+    <p>"@ViewBag.a * @ViewBag.b = @(ViewBag.a * ViewBag.b)"</p>
+    <p class="bold">Div:</p>
+    <p>"@ViewBag.a / @ViewBag.b = @(ViewBag.a / ViewBag.b)"</p>
+
+</div>

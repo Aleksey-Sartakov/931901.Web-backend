@@ -1,0 +1,19 @@
+﻿@model Solution.Models.TwoNumbers
+
+@{
+    ViewBag.Title = "PassUsingModel";
+}
+<h1>@ViewBag.Title</h1>
+<div>
+    <p class="bold">Rand value first: @Model.a</p>
+    <p class="bold">Rand value second: @Model.b</p>
+    <p class="bold">Add:</p>
+    <p>"@Model.a + @Model.b = @(Model.a + Model.b)"</p>
+    <p class="bold">Sub:</p>
+    <p>"@Model.a - @Model.b = @(Model.a - Model.b)"</p>
+    <p class="bold">Mult:</p>
+    <p>"@Model.a * @Model.b = @(Model.a * Model.b)"</p>
+    <p class="bold">Div:</p>
+    <p>"@Model.a / @Model.b = @(Model.a / Model.b)"</p>
+
+</div>

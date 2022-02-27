@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "PassUsingViewData";
+}
+<h1>@ViewData["Title"]</h1>
+<div>
+    <p class="bold">Rand value first: @ViewData["a"]</p>
+    <p class="bold">Rand value second: @ViewData["b"]</p>
+    <p class="bold">Add:</p>
+    <p>"@ViewData["a"] + @ViewData["b"] = @(Convert.ToInt32(ViewData["a"]) + Convert.ToInt32(ViewData["b"]))"</p>
+    <p class="bold">Sub:</p>
+    <p>"@ViewData["a"] - @ViewData["b"] = @(Convert.ToInt32(ViewData["a"]) - Convert.ToInt32(ViewData["b"]))"</p>
+    <p class="bold">Mult:</p>
+    <p>"@ViewData["a"] * @ViewData["b"] = @(Convert.ToInt32(ViewData["a"]) * Convert.ToInt32(ViewData["b"]))"</p>
+    <p class="bold">Div:</p>
+    <p>"@ViewData["a"] / @ViewData["b"] = @(Convert.ToInt32(ViewData["a"]) / Convert.ToInt32(ViewData["b"]))"</p>
+
+</div>

@@ -1,0 +1,61 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #1c1c1c;
+}
+
+footer{
+    margin-left: 7%;
+    margin-right: 7%;
+    border-top: 2px solid gray;
+    padding-top: 25px;
+}
+
+p{
+    margin: 0;
+}
+
+.menu-container{
+    padding: 1em;
+    padding-left: 7%;
+}
+
+.menu-container a{
+    display: inline;
+    text-decoration: none;
+    color: gray;
+}
+
+.main-name{
+    margin-right: 1.5em;
+    font-size: 140%;
+    font-weight: bold;
+}
+
+.container{
+    padding-left: 7%;
+    padding-right:7%;
+}
+
+.bold{
+    font-weight: bold;
+}
