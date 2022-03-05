@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1>Calc Service Demonstration</h1>
+    <ul>
+        <li><a asp-controller="Home" asp-action="ParsingInSingleAction">Manual parsing in single action</a></li>
+        <li><a asp-controller="Home" asp-action="ManualParsingSeparate">Manual parsing in separate actions</a></li>
+        <li><a asp-controller="Home" asp-action="ModelBindingParameters">Model binding (parameters)</a></li>
+        <li><a asp-controller="Home" asp-action="ModelBindingSeparate">Model binding (separate)</a></li>
+    </ul>
+</div>

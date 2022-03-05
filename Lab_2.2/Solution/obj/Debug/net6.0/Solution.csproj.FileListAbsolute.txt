@@ -1,0 +1,48 @@
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\bin\Debug\net6.0\appsettings.Development.json
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\bin\Debug\net6.0\appsettings.json
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\bin\Debug\net6.0\Solution.staticwebassets.runtime.json
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\bin\Debug\net6.0\Solution.exe
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\bin\Debug\net6.0\Solution.deps.json
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\bin\Debug\net6.0\Solution.runtimeconfig.json
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\bin\Debug\net6.0\Solution.dll
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\bin\Debug\net6.0\Solution.pdb
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\Solution.csproj.AssemblyReference.cache
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\Solution.AssemblyInfoInputs.cache
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\Solution.AssemblyInfo.cs
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\Solution.csproj.CoreCompileInputs.cache
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\Solution.MvcApplicationPartsAssemblyInfo.cache
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\Solution.RazorAssemblyInfo.cache
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\Solution.RazorAssemblyInfo.cs
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\staticwebassets.build.json
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\staticwebassets.development.json
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\scopedcss\bundle\Solution.styles.css
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\Solution.dll
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\refint\Solution.dll
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\Solution.pdb
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\Solution.genruntimeconfig.cache
+E:\Учёба\Web-технологии backend\Lab 2.1\Solution\obj\Debug\net6.0\ref\Solution.dll
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\bin\Debug\net6.0\appsettings.Development.json
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\bin\Debug\net6.0\appsettings.json
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\bin\Debug\net6.0\Solution.staticwebassets.runtime.json
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\bin\Debug\net6.0\Solution.exe
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\bin\Debug\net6.0\Solution.deps.json
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\bin\Debug\net6.0\Solution.runtimeconfig.json
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\bin\Debug\net6.0\Solution.dll
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\bin\Debug\net6.0\Solution.pdb
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\Solution.csproj.AssemblyReference.cache
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\Solution.AssemblyInfoInputs.cache
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\Solution.AssemblyInfo.cs
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\Solution.csproj.CoreCompileInputs.cache
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\Solution.MvcApplicationPartsAssemblyInfo.cache
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\Solution.RazorAssemblyInfo.cache
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\Solution.RazorAssemblyInfo.cs
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\staticwebassets.build.json
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\staticwebassets.development.json
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\scopedcss\bundle\Solution.styles.css
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\Solution.dll
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\refint\Solution.dll
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\Solution.pdb
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\Solution.genruntimeconfig.cache
+E:\Учёба\Web-технологии backend\Lab_2.2\Solution\obj\Debug\net6.0\ref\Solution.dll

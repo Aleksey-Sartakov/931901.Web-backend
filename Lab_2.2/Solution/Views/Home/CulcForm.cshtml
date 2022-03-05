@@ -1,0 +1,22 @@
+﻿@model Solution.Models.CulcData
+
+@{
+    var action = ViewContext.RouteData.Values["Action"] as string;
+}
+
+
+@{
+    ViewBag.Title = action;
+}
+<h1>@action</h1>
+<div>
+    <form asp-action=@action asp-controller="Home" method="post">
+        <div>
+            <input asp-for="a" type="number" /><br />
+            <select asp-for="operation" asp-items="Html.GetEnumSelectList<Operations>()"></select><br />
+            <input asp-for="b" type="number" /><br />
+            <input type="submit" value="Get result"/>
+        </div>
+    </form>
+
+</div>
