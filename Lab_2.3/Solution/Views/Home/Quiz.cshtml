@@ -1,0 +1,23 @@
+﻿@model Solution.Models.CulcData
+
+@{
+    var action = ViewContext.RouteData.Values["Action"] as string;
+}
+
+
+@{
+    ViewBag.Title = action;
+}
+
+<h1>@action</h1>
+<div>
+    <p>@Model.a @Model.operation @Model.b =</p>
+    <form asp-controller="Home">
+        <input name="result"/><br />
+        <div>
+            <input type="submit" value="Next" name="Action"/>
+            <input type="submit" value="Finish" name="Action"/>
+        </div>
+    </form>
+
+</div>

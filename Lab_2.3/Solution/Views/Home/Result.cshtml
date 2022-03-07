@@ -1,0 +1,21 @@
+﻿@model Solution.Models.CulcData
+
+@{
+    ViewBag.Title = "Result";
+}
+<h1>@ViewBag.Title</h1>
+<p>Right Answers @Model.CountOfRightAnswers out @Model.CountOfQuestions</p>
+<div>
+    <ol>
+        @if (Model.QuestionsData != null)
+        {
+            @foreach (var question in (Model.QuestionsData))
+            {
+                <li>@question</li>
+            }
+        }
+        else {
+            <p>Error!!!!</p>
+        }
+    </ol>
+</div>
