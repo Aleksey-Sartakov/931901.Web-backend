@@ -1,0 +1,110 @@
+C:\Users\Alexander\source\repos\web4\Backend4\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Alexander\source\repos\web4\Backend4\bin\Debug\net5.0\appsettings.json
+C:\Users\Alexander\source\repos\web4\Backend4\bin\Debug\net5.0\app.exe
+C:\Users\Alexander\source\repos\web4\Backend4\bin\Debug\net5.0\app.deps.json
+C:\Users\Alexander\source\repos\web4\Backend4\bin\Debug\net5.0\app.runtimeconfig.json
+C:\Users\Alexander\source\repos\web4\Backend4\bin\Debug\net5.0\app.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\web4\Backend4\bin\Debug\net5.0\app.dll
+C:\Users\Alexander\source\repos\web4\Backend4\bin\Debug\net5.0\app.pdb
+C:\Users\Alexander\source\repos\web4\Backend4\bin\Debug\net5.0\app.Views.dll
+C:\Users\Alexander\source\repos\web4\Backend4\bin\Debug\net5.0\app.Views.pdb
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.RazorAssemblyInfo.cache
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.RazorAssemblyInfo.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\scopedcss\bundle\app.styles.css
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.Manifest.cache
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.TagHelpers.input.cache
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.TagHelpers.output.cache
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.RazorCoreGenerate.cache
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\CheckBox.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\DropDownList.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Index.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\List.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Radio.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Result.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextArea.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextBox.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Index.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset2.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset3.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result2.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp2.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.RazorTargetAssemblyInfo.cache
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.RazorTargetAssemblyInfo.cs
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.Views.pdb
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.dll
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\refint\app.dll
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.pdb
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\ref\app.dll
+C:\Users\Alexander\source\repos\web4\Backend4\obj\Debug\net5.0\app.csproj.CopyComplete
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\bin\Debug\net5.0\appsettings.json
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\bin\Debug\net5.0\app.exe
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\bin\Debug\net5.0\app.deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\bin\Debug\net5.0\app.runtimeconfig.json
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\bin\Debug\net5.0\app.runtimeconfig.dev.json
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\bin\Debug\net5.0\app.dll
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\bin\Debug\net5.0\app.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\bin\Debug\net5.0\app.Views.dll
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\bin\Debug\net5.0\app.Views.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.RazorAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.RazorAssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\scopedcss\bundle\app.styles.css
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\staticwebassets\app.StaticWebAssets.Manifest.cache
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.TagHelpers.input.cache
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.TagHelpers.output.cache
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.RazorCoreGenerate.cache
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Controls\CheckBox.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Controls\DropDownList.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Index.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Controls\List.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Radio.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Controls\Result.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextArea.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Controls\TextBox.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Index.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset2.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Reset3.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\Result2.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Mockups\SignUp2.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.RazorTargetAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.RazorTargetAssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.Views.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.dll
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\refint\app.dll
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\ref\app.dll
+C:\Users\aleks\OneDrive\Рабочий стол\тест\Backend4\obj\Debug\net5.0\app.csproj.CopyComplete
