@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Solution</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="menu-container">
+                <a class="main-name" asp-area="" asp-controller="Home" asp-action="Index">Solution</a>
+                <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                <a asp-area="" asp-controller="Hospitals" asp-action="Index">Hospitals</a>
+                <a asp-area="" asp-controller="Labs" asp-action="Index">Labs</a>
+                <a asp-area="" asp-controller="Doctors" asp-action="Index">Doctors</a>
+                <a asp-area="" asp-controller="Patients" asp-action="Index">Patients</a>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        &copy; 2022 - Backend5
+    </footer>
+</body>
+</html>
